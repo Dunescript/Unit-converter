@@ -4,7 +4,8 @@ body {
     height: 729px;
     left: 76px;
     top: 126px;
-
+    box-shadow: 10px 3px 2px rgba(0, 0, 0, 0.05);
+    background: #F4F4F4;
     background: #F4F4F4;
     }
     
